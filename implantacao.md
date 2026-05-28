@@ -12,4 +12,4 @@ para rodar este projeto no seu computador você precisa ter instalado:
 -[] Criar a estrutura da base de dados no laravel
 -[] instalar o filament
 -[] configurar o arquivo de variaveis de ambiente ('.env')
--[] Rodar as aplicações do bmco de dados ('migrations').
+-[] Rodar as aplicações do bmco de dados ('migrations'). 
